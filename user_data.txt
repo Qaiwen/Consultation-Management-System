@@ -1,0 +1,25 @@
+Username: kelver
+Password: 1234
+Role: Lecturer
+Lecturer ID: INS1234
+---------------
+Username: bryan
+Password: 1234
+Role: Student
+---------------
+Username: liyang
+Password: liyang23
+Role: Student
+---------------
+Username: kelver123
+Password: 12345
+Role: Student
+---------------
+Username: kelver23
+Password: 1234
+Role: Student
+---------------
+Username: kelver12
+Password: 1234
+Role: Student
+---------------
